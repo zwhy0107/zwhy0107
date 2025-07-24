@@ -2,7 +2,7 @@
 My name is Yang Lei. 
 
 
-A graduate student at the School of Mathematical Sciences, RUC
+A graduate student at the College of Mathematical, RUC
 
 
 Research interests: bioinformatics, graph neural networks, large language models, and recommendation systems.
