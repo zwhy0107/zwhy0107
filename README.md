@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Li Hua. 
+My name is Yang Lei. 
 A graduate student at the School of Mathematical Sciences, RUC
 Research interests: bioinformatics, graph neural networks, large language models, and recommendation systems.
 concat: lei_yang@163.com, lei_yang@ruc.edu.cn
